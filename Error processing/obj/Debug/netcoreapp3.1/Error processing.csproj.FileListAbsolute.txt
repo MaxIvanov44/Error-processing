@@ -1,0 +1,19 @@
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\Error processing.exe
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\Error processing.deps.json
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\Error processing.runtimeconfig.json
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\Error processing.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\Error processing.dll
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\Error processing.pdb
+C:\Users\ivano\source\repos\Error processing\Error processing\obj\Debug\netcoreapp3.1\Error processing.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Error processing\Error processing\obj\Debug\netcoreapp3.1\staticwebassets\Error processing.StaticWebAssets.Manifest.cache
+C:\Users\ivano\source\repos\Error processing\Error processing\obj\Debug\netcoreapp3.1\staticwebassets\Error processing.StaticWebAssets.xml
+C:\Users\ivano\source\repos\Error processing\Error processing\obj\Debug\netcoreapp3.1\Error processing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivano\source\repos\Error processing\Error processing\obj\Debug\netcoreapp3.1\Error processing.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\Error processing\Error processing\obj\Debug\netcoreapp3.1\Error processing.AssemblyInfo.cs
+C:\Users\ivano\source\repos\Error processing\Error processing\obj\Debug\netcoreapp3.1\Error processing.RazorTargetAssemblyInfo.cache
+C:\Users\ivano\source\repos\Error processing\Error processing\obj\Debug\netcoreapp3.1\Error processing.dll
+C:\Users\ivano\source\repos\Error processing\Error processing\obj\Debug\netcoreapp3.1\Error processing.pdb
+C:\Users\ivano\source\repos\Error processing\Error processing\bin\Debug\netcoreapp3.1\web.config
